@@ -1,5 +1,5 @@
 module HomePageRedirector
-  module HomePageRedirector
+  module IssueCategoriesControllerPath
     def self.included(base)
       base.class_eval do
         def index_with_redirector
