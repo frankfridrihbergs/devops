@@ -1,0 +1,1 @@
+PATH_TO_LOGIN_PAGE = "http://www.localhost:81/redmine/login"
